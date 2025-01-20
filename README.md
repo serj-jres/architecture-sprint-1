@@ -19,4 +19,4 @@
 4. Опишите каждый компонент
 5. Добавьте на схему межсервисные взаимодействия
 6. Прислать ссылку на draw.io, где вы решили второе задание:
-https://app.diagrams.net/#Hserj-jres%2Farchitecture-sprint-1%2Fsprint_1%2Farch_template_task2.drawio#%7B%22pageId%22%3A%22BleSmaJVXqo2yb7Co1eL%22%7D
+   https://github.com/serj-jres/architecture-sprint-1/blob/sprint_1/arch_template_task2.drawio
